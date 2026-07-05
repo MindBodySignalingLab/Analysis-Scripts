@@ -1,0 +1,1999 @@
+--- Linear Regression Performance --- for shift -300
+MAE: 66.5954
+R2 Score: -0.3396
+
+--- Linear Regression Performance --- for shift -299
+MAE: 66.7450
+R2 Score: -0.3465
+
+--- Linear Regression Performance --- for shift -298
+MAE: 66.6250
+R2 Score: -0.3492
+
+--- Linear Regression Performance --- for shift -297
+MAE: 66.4995
+R2 Score: -0.3514
+
+--- Linear Regression Performance --- for shift -296
+MAE: 66.4833
+R2 Score: -0.3580
+
+--- Linear Regression Performance --- for shift -295
+MAE: 66.6365
+R2 Score: -0.3583
+
+--- Linear Regression Performance --- for shift -294
+MAE: 66.8393
+R2 Score: -0.3713
+
+--- Linear Regression Performance --- for shift -293
+MAE: 66.9693
+R2 Score: -0.3735
+
+--- Linear Regression Performance --- for shift -292
+MAE: 66.7902
+R2 Score: -0.3666
+
+--- Linear Regression Performance --- for shift -291
+MAE: 66.6321
+R2 Score: -0.3580
+
+--- Linear Regression Performance --- for shift -290
+MAE: 66.4399
+R2 Score: -0.3529
+
+--- Linear Regression Performance --- for shift -289
+MAE: 66.6028
+R2 Score: -0.3507
+
+--- Linear Regression Performance --- for shift -288
+MAE: 66.5464
+R2 Score: -0.3429
+
+--- Linear Regression Performance --- for shift -287
+MAE: 66.5122
+R2 Score: -0.3368
+
+--- Linear Regression Performance --- for shift -286
+MAE: 66.2264
+R2 Score: -0.3265
+
+--- Linear Regression Performance --- for shift -285
+MAE: 65.8550
+R2 Score: -0.3078
+
+--- Linear Regression Performance --- for shift -284
+MAE: 65.7268
+R2 Score: -0.2995
+
+--- Linear Regression Performance --- for shift -283
+MAE: 65.6319
+R2 Score: -0.2845
+
+--- Linear Regression Performance --- for shift -282
+MAE: 65.3673
+R2 Score: -0.2702
+
+--- Linear Regression Performance --- for shift -281
+MAE: 65.1484
+R2 Score: -0.2549
+
+--- Linear Regression Performance --- for shift -280
+MAE: 64.8717
+R2 Score: -0.2373
+
+--- Linear Regression Performance --- for shift -279
+MAE: 64.9260
+R2 Score: -0.2296
+
+--- Linear Regression Performance --- for shift -278
+MAE: 64.8275
+R2 Score: -0.2192
+
+--- Linear Regression Performance --- for shift -277
+MAE: 64.7158
+R2 Score: -0.2061
+
+--- Linear Regression Performance --- for shift -276
+MAE: 64.6106
+R2 Score: -0.1956
+
+--- Linear Regression Performance --- for shift -275
+MAE: 64.1675
+R2 Score: -0.1815
+
+--- Linear Regression Performance --- for shift -274
+MAE: 64.2793
+R2 Score: -0.1760
+
+--- Linear Regression Performance --- for shift -273
+MAE: 64.3338
+R2 Score: -0.1733
+
+--- Linear Regression Performance --- for shift -272
+MAE: 64.2265
+R2 Score: -0.1625
+
+--- Linear Regression Performance --- for shift -271
+MAE: 64.2351
+R2 Score: -0.1559
+
+--- Linear Regression Performance --- for shift -270
+MAE: 64.0126
+R2 Score: -0.1502
+
+--- Linear Regression Performance --- for shift -269
+MAE: 63.8794
+R2 Score: -0.1423
+
+--- Linear Regression Performance --- for shift -268
+MAE: 63.7983
+R2 Score: -0.1348
+
+--- Linear Regression Performance --- for shift -267
+MAE: 63.7628
+R2 Score: -0.1313
+
+--- Linear Regression Performance --- for shift -266
+MAE: 63.8141
+R2 Score: -0.1326
+
+--- Linear Regression Performance --- for shift -265
+MAE: 63.6638
+R2 Score: -0.1308
+
+--- Linear Regression Performance --- for shift -264
+MAE: 63.8102
+R2 Score: -0.1263
+
+--- Linear Regression Performance --- for shift -263
+MAE: 63.8525
+R2 Score: -0.1225
+
+--- Linear Regression Performance --- for shift -262
+MAE: 63.7653
+R2 Score: -0.1182
+
+--- Linear Regression Performance --- for shift -261
+MAE: 63.7665
+R2 Score: -0.1154
+
+--- Linear Regression Performance --- for shift -260
+MAE: 64.1336
+R2 Score: -0.1200
+
+--- Linear Regression Performance --- for shift -259
+MAE: 64.3696
+R2 Score: -0.1248
+
+--- Linear Regression Performance --- for shift -258
+MAE: 64.6280
+R2 Score: -0.1257
+
+--- Linear Regression Performance --- for shift -257
+MAE: 64.9815
+R2 Score: -0.1280
+
+--- Linear Regression Performance --- for shift -256
+MAE: 65.1908
+R2 Score: -0.1308
+
+--- Linear Regression Performance --- for shift -255
+MAE: 65.3698
+R2 Score: -0.1344
+
+--- Linear Regression Performance --- for shift -254
+MAE: 65.5803
+R2 Score: -0.1327
+
+--- Linear Regression Performance --- for shift -253
+MAE: 65.7250
+R2 Score: -0.1347
+
+--- Linear Regression Performance --- for shift -252
+MAE: 65.8076
+R2 Score: -0.1377
+
+--- Linear Regression Performance --- for shift -251
+MAE: 66.0593
+R2 Score: -0.1408
+
+--- Linear Regression Performance --- for shift -250
+MAE: 66.1484
+R2 Score: -0.1396
+
+--- Linear Regression Performance --- for shift -249
+MAE: 65.8280
+R2 Score: -0.1280
+
+--- Linear Regression Performance --- for shift -248
+MAE: 65.6957
+R2 Score: -0.1227
+
+--- Linear Regression Performance --- for shift -247
+MAE: 65.7046
+R2 Score: -0.1183
+
+--- Linear Regression Performance --- for shift -246
+MAE: 65.6369
+R2 Score: -0.1152
+
+--- Linear Regression Performance --- for shift -245
+MAE: 65.6926
+R2 Score: -0.1163
+
+--- Linear Regression Performance --- for shift -244
+MAE: 65.8071
+R2 Score: -0.1181
+
+--- Linear Regression Performance --- for shift -243
+MAE: 65.9423
+R2 Score: -0.1210
+
+--- Linear Regression Performance --- for shift -242
+MAE: 65.8239
+R2 Score: -0.1158
+
+--- Linear Regression Performance --- for shift -241
+MAE: 65.6659
+R2 Score: -0.1105
+
+--- Linear Regression Performance --- for shift -240
+MAE: 65.2147
+R2 Score: -0.0987
+
+--- Linear Regression Performance --- for shift -239
+MAE: 64.9841
+R2 Score: -0.0946
+
+--- Linear Regression Performance --- for shift -238
+MAE: 64.6932
+R2 Score: -0.0873
+
+--- Linear Regression Performance --- for shift -237
+MAE: 64.5682
+R2 Score: -0.0822
+
+--- Linear Regression Performance --- for shift -236
+MAE: 64.4883
+R2 Score: -0.0794
+
+--- Linear Regression Performance --- for shift -235
+MAE: 64.3498
+R2 Score: -0.0779
+
+--- Linear Regression Performance --- for shift -234
+MAE: 64.0525
+R2 Score: -0.0709
+
+--- Linear Regression Performance --- for shift -233
+MAE: 63.5317
+R2 Score: -0.0603
+
+--- Linear Regression Performance --- for shift -232
+MAE: 63.1842
+R2 Score: -0.0539
+
+--- Linear Regression Performance --- for shift -231
+MAE: 62.7474
+R2 Score: -0.0446
+
+--- Linear Regression Performance --- for shift -230
+MAE: 62.6114
+R2 Score: -0.0390
+
+--- Linear Regression Performance --- for shift -229
+MAE: 62.1814
+R2 Score: -0.0318
+
+--- Linear Regression Performance --- for shift -228
+MAE: 61.9451
+R2 Score: -0.0287
+
+--- Linear Regression Performance --- for shift -227
+MAE: 61.6410
+R2 Score: -0.0262
+
+--- Linear Regression Performance --- for shift -226
+MAE: 61.1632
+R2 Score: -0.0191
+
+--- Linear Regression Performance --- for shift -225
+MAE: 60.7630
+R2 Score: -0.0100
+
+--- Linear Regression Performance --- for shift -224
+MAE: 60.4232
+R2 Score: -0.0033
+
+--- Linear Regression Performance --- for shift -223
+MAE: 60.2319
+R2 Score: 0.0007
+
+--- Linear Regression Performance --- for shift -222
+MAE: 59.9584
+R2 Score: 0.0046
+
+--- Linear Regression Performance --- for shift -221
+MAE: 59.6460
+R2 Score: 0.0080
+
+--- Linear Regression Performance --- for shift -220
+MAE: 59.4018
+R2 Score: 0.0123
+
+--- Linear Regression Performance --- for shift -219
+MAE: 59.1588
+R2 Score: 0.0135
+
+--- Linear Regression Performance --- for shift -218
+MAE: 58.8133
+R2 Score: 0.0203
+
+--- Linear Regression Performance --- for shift -217
+MAE: 58.5217
+R2 Score: 0.0301
+
+--- Linear Regression Performance --- for shift -216
+MAE: 58.2472
+R2 Score: 0.0372
+
+--- Linear Regression Performance --- for shift -215
+MAE: 57.8706
+R2 Score: 0.0428
+
+--- Linear Regression Performance --- for shift -214
+MAE: 57.5631
+R2 Score: 0.0487
+
+--- Linear Regression Performance --- for shift -213
+MAE: 57.3454
+R2 Score: 0.0545
+
+--- Linear Regression Performance --- for shift -212
+MAE: 57.0191
+R2 Score: 0.0591
+
+--- Linear Regression Performance --- for shift -211
+MAE: 56.5701
+R2 Score: 0.0676
+
+--- Linear Regression Performance --- for shift -210
+MAE: 56.2653
+R2 Score: 0.0766
+
+--- Linear Regression Performance --- for shift -209
+MAE: 55.8818
+R2 Score: 0.0874
+
+--- Linear Regression Performance --- for shift -208
+MAE: 55.5561
+R2 Score: 0.0959
+
+--- Linear Regression Performance --- for shift -207
+MAE: 55.4092
+R2 Score: 0.0992
+
+--- Linear Regression Performance --- for shift -206
+MAE: 55.3515
+R2 Score: 0.1009
+
+--- Linear Regression Performance --- for shift -205
+MAE: 55.2790
+R2 Score: 0.1026
+
+--- Linear Regression Performance --- for shift -204
+MAE: 55.1772
+R2 Score: 0.1017
+
+--- Linear Regression Performance --- for shift -203
+MAE: 55.2685
+R2 Score: 0.1022
+
+--- Linear Regression Performance --- for shift -202
+MAE: 55.2441
+R2 Score: 0.1042
+
+--- Linear Regression Performance --- for shift -201
+MAE: 55.1362
+R2 Score: 0.1070
+--- Linear Regression Performance --- for shift -200
+MAE: 55.0900
+R2 Score: 0.1039
+
+--- Linear Regression Performance --- for shift -199
+MAE: 55.3726
+R2 Score: 0.0997
+
+--- Linear Regression Performance --- for shift -198
+MAE: 55.5846
+R2 Score: 0.0937
+
+--- Linear Regression Performance --- for shift -197
+MAE: 55.7461
+R2 Score: 0.0855
+
+--- Linear Regression Performance --- for shift -196
+MAE: 56.0561
+R2 Score: 0.0744
+
+--- Linear Regression Performance --- for shift -195
+MAE: 56.1643
+R2 Score: 0.0686
+
+--- Linear Regression Performance --- for shift -194
+MAE: 56.5181
+R2 Score: 0.0612
+
+--- Linear Regression Performance --- for shift -193
+MAE: 57.0497
+R2 Score: 0.0449
+
+--- Linear Regression Performance --- for shift -192
+MAE: 57.4914
+R2 Score: 0.0286
+
+--- Linear Regression Performance --- for shift -191
+MAE: 57.8830
+R2 Score: 0.0161
+
+--- Linear Regression Performance --- for shift -190
+MAE: 58.4725
+R2 Score: 0.0012
+
+--- Linear Regression Performance --- for shift -189
+MAE: 58.8761
+R2 Score: -0.0139
+
+--- Linear Regression Performance --- for shift -188
+MAE: 59.2247
+R2 Score: -0.0291
+
+--- Linear Regression Performance --- for shift -187
+MAE: 59.3403
+R2 Score: -0.0409
+
+--- Linear Regression Performance --- for shift -186
+MAE: 59.8109
+R2 Score: -0.0596
+
+--- Linear Regression Performance --- for shift -185
+MAE: 60.3943
+R2 Score: -0.0791
+
+--- Linear Regression Performance --- for shift -184
+MAE: 61.0353
+R2 Score: -0.0976
+
+--- Linear Regression Performance --- for shift -183
+MAE: 61.4757
+R2 Score: -0.1144
+
+--- Linear Regression Performance --- for shift -182
+MAE: 61.9756
+R2 Score: -0.1338
+
+--- Linear Regression Performance --- for shift -181
+MAE: 62.2900
+R2 Score: -0.1472
+
+--- Linear Regression Performance --- for shift -180
+MAE: 62.3269
+R2 Score: -0.1567
+
+--- Linear Regression Performance --- for shift -179
+MAE: 62.6982
+R2 Score: -0.1761
+
+--- Linear Regression Performance --- for shift -178
+MAE: 63.2191
+R2 Score: -0.1980
+
+--- Linear Regression Performance --- for shift -177
+MAE: 63.6929
+R2 Score: -0.2177
+
+--- Linear Regression Performance --- for shift -176
+MAE: 64.0015
+R2 Score: -0.2346
+
+--- Linear Regression Performance --- for shift -175
+MAE: 64.3860
+R2 Score: -0.2527
+
+--- Linear Regression Performance --- for shift -174
+MAE: 64.6965
+R2 Score: -0.2709
+
+--- Linear Regression Performance --- for shift -173
+MAE: 64.9170
+R2 Score: -0.2837
+
+--- Linear Regression Performance --- for shift -172
+MAE: 65.0907
+R2 Score: -0.2995
+
+--- Linear Regression Performance --- for shift -171
+MAE: 65.2864
+R2 Score: -0.3152
+
+--- Linear Regression Performance --- for shift -170
+MAE: 65.4077
+R2 Score: -0.3289
+
+--- Linear Regression Performance --- for shift -169
+MAE: 65.5466
+R2 Score: -0.3433
+
+--- Linear Regression Performance --- for shift -168
+MAE: 65.7213
+R2 Score: -0.3557
+
+--- Linear Regression Performance --- for shift -167
+MAE: 65.8121
+R2 Score: -0.3654
+
+--- Linear Regression Performance --- for shift -166
+MAE: 65.8061
+R2 Score: -0.3723
+
+--- Linear Regression Performance --- for shift -165
+MAE: 65.9313
+R2 Score: -0.3811
+
+--- Linear Regression Performance --- for shift -164
+MAE: 66.2131
+R2 Score: -0.3886
+
+--- Linear Regression Performance --- for shift -163
+MAE: 66.2193
+R2 Score: -0.3963
+
+--- Linear Regression Performance --- for shift -162
+MAE: 66.1256
+R2 Score: -0.4027
+
+--- Linear Regression Performance --- for shift -161
+MAE: 66.1025
+R2 Score: -0.4079
+
+--- Linear Regression Performance --- for shift -160
+MAE: 66.0873
+R2 Score: -0.4149
+
+--- Linear Regression Performance --- for shift -159
+MAE: 66.1443
+R2 Score: -0.4251
+
+--- Linear Regression Performance --- for shift -158
+MAE: 66.3021
+R2 Score: -0.4334
+
+--- Linear Regression Performance --- for shift -157
+MAE: 66.5881
+R2 Score: -0.4381
+
+--- Linear Regression Performance --- for shift -156
+MAE: 66.7291
+R2 Score: -0.4361
+
+--- Linear Regression Performance --- for shift -155
+MAE: 67.0036
+R2 Score: -0.4389
+
+--- Linear Regression Performance --- for shift -154
+MAE: 67.1900
+R2 Score: -0.4478
+
+--- Linear Regression Performance --- for shift -153
+MAE: 67.5132
+R2 Score: -0.4584
+
+--- Linear Regression Performance --- for shift -152
+MAE: 67.6909
+R2 Score: -0.4642
+
+--- Linear Regression Performance --- for shift -151
+MAE: 67.9919
+R2 Score: -0.4695
+
+--- Linear Regression Performance --- for shift -150
+MAE: 68.7035
+R2 Score: -0.4816
+
+--- Linear Regression Performance --- for shift -149
+MAE: 68.9779
+R2 Score: -0.4905
+
+--- Linear Regression Performance --- for shift -148
+MAE: 69.3796
+R2 Score: -0.4872
+
+--- Linear Regression Performance --- for shift -147
+MAE: 69.7122
+R2 Score: -0.4911
+
+--- Linear Regression Performance --- for shift -146
+MAE: 70.3836
+R2 Score: -0.4989
+
+--- Linear Regression Performance --- for shift -145
+MAE: 70.6394
+R2 Score: -0.5031
+
+--- Linear Regression Performance --- for shift -144
+MAE: 70.7070
+R2 Score: -0.4977
+
+--- Linear Regression Performance --- for shift -143
+MAE: 70.8204
+R2 Score: -0.4939
+
+--- Linear Regression Performance --- for shift -142
+MAE: 70.8107
+R2 Score: -0.4882
+
+--- Linear Regression Performance --- for shift -141
+MAE: 71.0028
+R2 Score: -0.4807
+
+--- Linear Regression Performance --- for shift -140
+MAE: 71.0855
+R2 Score: -0.4676
+
+--- Linear Regression Performance --- for shift -139
+MAE: 71.4749
+R2 Score: -0.4634
+
+--- Linear Regression Performance --- for shift -138
+MAE: 71.7525
+R2 Score: -0.4583
+
+--- Linear Regression Performance --- for shift -137
+MAE: 71.9695
+R2 Score: -0.4560
+
+--- Linear Regression Performance --- for shift -136
+MAE: 72.1468
+R2 Score: -0.4583
+
+--- Linear Regression Performance --- for shift -135
+MAE: 72.2054
+R2 Score: -0.4580
+
+--- Linear Regression Performance --- for shift -134
+MAE: 72.4032
+R2 Score: -0.4532
+
+--- Linear Regression Performance --- for shift -133
+MAE: 72.8459
+R2 Score: -0.4537
+
+--- Linear Regression Performance --- for shift -132
+MAE: 73.3545
+R2 Score: -0.4595
+
+--- Linear Regression Performance --- for shift -131
+MAE: 73.8540
+R2 Score: -0.4697
+
+--- Linear Regression Performance --- for shift -130
+MAE: 74.3926
+R2 Score: -0.4819
+
+--- Linear Regression Performance --- for shift -129
+MAE: 74.4996
+R2 Score: -0.4845
+
+--- Linear Regression Performance --- for shift -128
+MAE: 74.4737
+R2 Score: -0.4764
+
+--- Linear Regression Performance --- for shift -127
+MAE: 74.3798
+R2 Score: -0.4615
+
+--- Linear Regression Performance --- for shift -126
+MAE: 74.2486
+R2 Score: -0.4480
+
+--- Linear Regression Performance --- for shift -125
+MAE: 74.1021
+R2 Score: -0.4397
+
+--- Linear Regression Performance --- for shift -124
+MAE: 74.2628
+R2 Score: -0.4374
+
+--- Linear Regression Performance --- for shift -123
+MAE: 74.1787
+R2 Score: -0.4293
+
+--- Linear Regression Performance --- for shift -122
+MAE: 73.9631
+R2 Score: -0.4172
+
+--- Linear Regression Performance --- for shift -121
+MAE: 74.0165
+R2 Score: -0.4206
+
+--- Linear Regression Performance --- for shift -120
+MAE: 74.0229
+R2 Score: -0.4202
+
+--- Linear Regression Performance --- for shift -119
+MAE: 74.1730
+R2 Score: -0.4173
+
+--- Linear Regression Performance --- for shift -118
+MAE: 73.8820
+R2 Score: -0.4073
+
+--- Linear Regression Performance --- for shift -117
+MAE: 73.9773
+R2 Score: -0.4056
+
+--- Linear Regression Performance --- for shift -116
+MAE: 74.2431
+R2 Score: -0.4143
+
+--- Linear Regression Performance --- for shift -115
+MAE: 74.4631
+R2 Score: -0.4234
+
+--- Linear Regression Performance --- for shift -114
+MAE: 74.5291
+R2 Score: -0.4279
+
+--- Linear Regression Performance --- for shift -113
+MAE: 74.2261
+R2 Score: -0.4144
+
+--- Linear Regression Performance --- for shift -112
+MAE: 74.0183
+R2 Score: -0.4016
+
+--- Linear Regression Performance --- for shift -111
+MAE: 73.7348
+R2 Score: -0.3878
+
+--- Linear Regression Performance --- for shift -110
+MAE: 73.4343
+R2 Score: -0.3755
+
+--- Linear Regression Performance --- for shift -109
+MAE: 73.0343
+R2 Score: -0.3637
+
+--- Linear Regression Performance --- for shift -108
+MAE: 72.7750
+R2 Score: -0.3547
+
+--- Linear Regression Performance --- for shift -107
+MAE: 72.5404
+R2 Score: -0.3438
+
+--- Linear Regression Performance --- for shift -106
+MAE: 72.0884
+R2 Score: -0.3261
+
+--- Linear Regression Performance --- for shift -105
+MAE: 71.4193
+R2 Score: -0.3027
+
+--- Linear Regression Performance --- for shift -104
+MAE: 70.7127
+R2 Score: -0.2796
+
+--- Linear Regression Performance --- for shift -103
+MAE: 69.9908
+R2 Score: -0.2546
+
+--- Linear Regression Performance --- for shift -102
+MAE: 69.6009
+R2 Score: -0.2408
+
+--- Linear Regression Performance --- for shift -101
+MAE: 69.4970
+R2 Score: -0.2369
+
+--- Linear Regression Performance --- for shift -100
+MAE: 69.3526
+R2 Score: -0.2303
+
+--- Linear Regression Performance --- for shift -99
+MAE: 69.2935
+R2 Score: -0.2243
+
+--- Linear Regression Performance --- for shift -98
+MAE: 69.0481
+R2 Score: -0.2163
+
+--- Linear Regression Performance --- for shift -97
+MAE: 68.9682
+R2 Score: -0.2141
+
+--- Linear Regression Performance --- for shift -96
+MAE: 68.1880
+R2 Score: -0.1927
+
+--- Linear Regression Performance --- for shift -95
+MAE: 67.5221
+R2 Score: -0.1733
+
+--- Linear Regression Performance --- for shift -94
+MAE: 67.2599
+R2 Score: -0.1631
+
+--- Linear Regression Performance --- for shift -93
+MAE: 67.5229
+R2 Score: -0.1698
+
+--- Linear Regression Performance --- for shift -92
+MAE: 67.7761
+R2 Score: -0.1781
+
+--- Linear Regression Performance --- for shift -91
+MAE: 67.8459
+R2 Score: -0.1803
+
+--- Linear Regression Performance --- for shift -90
+MAE: 67.9412
+R2 Score: -0.1859
+
+--- Linear Regression Performance --- for shift -89
+MAE: 68.0365
+R2 Score: -0.1899
+
+--- Linear Regression Performance --- for shift -88
+MAE: 67.7207
+R2 Score: -0.1797
+
+--- Linear Regression Performance --- for shift -87
+MAE: 67.5262
+R2 Score: -0.1726
+
+--- Linear Regression Performance --- for shift -86
+MAE: 67.4528
+R2 Score: -0.1739
+
+--- Linear Regression Performance --- for shift -85
+MAE: 67.7410
+R2 Score: -0.1821
+
+--- Linear Regression Performance --- for shift -84
+MAE: 67.9594
+R2 Score: -0.1916
+
+--- Linear Regression Performance --- for shift -83
+MAE: 68.2075
+R2 Score: -0.2024
+
+--- Linear Regression Performance --- for shift -82
+MAE: 68.3234
+R2 Score: -0.2108
+
+--- Linear Regression Performance --- for shift -81
+MAE: 68.4725
+R2 Score: -0.2136
+
+--- Linear Regression Performance --- for shift -80
+MAE: 68.5870
+R2 Score: -0.2124
+
+--- Linear Regression Performance --- for shift -79
+MAE: 68.4399
+R2 Score: -0.2148
+
+--- Linear Regression Performance --- for shift -78
+MAE: 68.5655
+R2 Score: -0.2248
+
+--- Linear Regression Performance --- for shift -77
+MAE: 68.5978
+R2 Score: -0.2325
+
+--- Linear Regression Performance --- for shift -76
+MAE: 68.7508
+R2 Score: -0.2377
+
+--- Linear Regression Performance --- for shift -75
+MAE: 69.0852
+R2 Score: -0.2509
+
+--- Linear Regression Performance --- for shift -74
+MAE: 69.1871
+R2 Score: -0.2519
+
+--- Linear Regression Performance --- for shift -73
+MAE: 68.5491
+R2 Score: -0.2367
+
+--- Linear Regression Performance --- for shift -72
+MAE: 68.1176
+R2 Score: -0.2268
+
+--- Linear Regression Performance --- for shift -71
+MAE: 67.8072
+R2 Score: -0.2211
+
+--- Linear Regression Performance --- for shift -70
+MAE: 67.6000
+R2 Score: -0.2234
+
+--- Linear Regression Performance --- for shift -69
+MAE: 67.5290
+R2 Score: -0.2299
+
+--- Linear Regression Performance --- for shift -68
+MAE: 67.6346
+R2 Score: -0.2347
+
+--- Linear Regression Performance --- for shift -67
+MAE: 67.6607
+R2 Score: -0.2363
+
+--- Linear Regression Performance --- for shift -66
+MAE: 67.6544
+R2 Score: -0.2379
+
+--- Linear Regression Performance --- for shift -65
+MAE: 67.0483
+R2 Score: -0.2291
+
+--- Linear Regression Performance --- for shift -64
+MAE: 66.4893
+R2 Score: -0.2237
+
+--- Linear Regression Performance --- for shift -63
+MAE: 65.8639
+R2 Score: -0.2120
+
+--- Linear Regression Performance --- for shift -62
+MAE: 65.6802
+R2 Score: -0.2102
+
+--- Linear Regression Performance --- for shift -61
+MAE: 65.6720
+R2 Score: -0.2125
+
+--- Linear Regression Performance --- for shift -60
+MAE: 65.5274
+R2 Score: -0.2115
+
+--- Linear Regression Performance --- for shift -59
+MAE: 65.5291
+R2 Score: -0.2090
+
+--- Linear Regression Performance --- for shift -58
+MAE: 65.6854
+R2 Score: -0.2111
+
+--- Linear Regression Performance --- for shift -57
+MAE: 65.2741
+R2 Score: -0.2052
+
+--- Linear Regression Performance --- for shift -56
+MAE: 64.9739
+R2 Score: -0.2023
+
+--- Linear Regression Performance --- for shift -55
+MAE: 64.5835
+R2 Score: -0.2013
+
+--- Linear Regression Performance --- for shift -54
+MAE: 64.6906
+R2 Score: -0.1976
+
+--- Linear Regression Performance --- for shift -53
+MAE: 64.7648
+R2 Score: -0.1915
+
+--- Linear Regression Performance --- for shift -52
+MAE: 64.6543
+R2 Score: -0.1866
+
+--- Linear Regression Performance --- for shift -51
+MAE: 64.4960
+R2 Score: -0.1836
+
+--- Linear Regression Performance --- for shift -50
+MAE: 64.1976
+R2 Score: -0.1796
+
+--- Linear Regression Performance --- for shift -49
+MAE: 63.7369
+R2 Score: -0.1750
+
+--- Linear Regression Performance --- for shift -48
+MAE: 63.3924
+R2 Score: -0.1726
+
+--- Linear Regression Performance --- for shift -47
+MAE: 63.2707
+R2 Score: -0.1710
+
+--- Linear Regression Performance --- for shift -46
+MAE: 63.3144
+R2 Score: -0.1744
+
+--- Linear Regression Performance --- for shift -45
+MAE: 63.3319
+R2 Score: -0.1796
+
+--- Linear Regression Performance --- for shift -44
+MAE: 63.2070
+R2 Score: -0.1811
+
+--- Linear Regression Performance --- for shift -43
+MAE: 63.1788
+R2 Score: -0.1833
+
+--- Linear Regression Performance --- for shift -42
+MAE: 63.1896
+R2 Score: -0.1833
+
+--- Linear Regression Performance --- for shift -41
+MAE: 63.1904
+R2 Score: -0.1867
+
+--- Linear Regression Performance --- for shift -40
+MAE: 63.6775
+R2 Score: -0.1997
+
+--- Linear Regression Performance --- for shift -39
+MAE: 64.2960
+R2 Score: -0.2141
+
+--- Linear Regression Performance --- for shift -38
+MAE: 64.7090
+R2 Score: -0.2255
+
+--- Linear Regression Performance --- for shift -37
+MAE: 65.1688
+R2 Score: -0.2369
+
+--- Linear Regression Performance --- for shift -36
+MAE: 65.5346
+R2 Score: -0.2397
+
+--- Linear Regression Performance --- for shift -35
+MAE: 65.6629
+R2 Score: -0.2403
+
+--- Linear Regression Performance --- for shift -34
+MAE: 65.7766
+R2 Score: -0.2378
+
+--- Linear Regression Performance --- for shift -33
+MAE: 66.1988
+R2 Score: -0.2395
+
+--- Linear Regression Performance --- for shift -32
+MAE: 66.6643
+R2 Score: -0.2477
+
+--- Linear Regression Performance --- for shift -31
+MAE: 66.8320
+R2 Score: -0.2474
+
+--- Linear Regression Performance --- for shift -30
+MAE: 66.9771
+R2 Score: -0.2479
+
+--- Linear Regression Performance --- for shift -29
+MAE: 67.2201
+R2 Score: -0.2508
+
+--- Linear Regression Performance --- for shift -28
+MAE: 67.3737
+R2 Score: -0.2549
+
+--- Linear Regression Performance --- for shift -27
+MAE: 67.7660
+R2 Score: -0.2539
+
+--- Linear Regression Performance --- for shift -26
+MAE: 68.2980
+R2 Score: -0.2624
+
+--- Linear Regression Performance --- for shift -25
+MAE: 68.9154
+R2 Score: -0.2735
+
+--- Linear Regression Performance --- for shift -24
+MAE: 69.3886
+R2 Score: -0.2796
+
+--- Linear Regression Performance --- for shift -23
+MAE: 69.5176
+R2 Score: -0.2858
+
+--- Linear Regression Performance --- for shift -22
+MAE: 69.8899
+R2 Score: -0.2943
+
+--- Linear Regression Performance --- for shift -21
+MAE: 70.5244
+R2 Score: -0.3083
+
+--- Linear Regression Performance --- for shift -20
+MAE: 70.8174
+R2 Score: -0.3134
+
+--- Linear Regression Performance --- for shift -19
+MAE: 71.4342
+R2 Score: -0.3252
+
+--- Linear Regression Performance --- for shift -18
+MAE: 72.2810
+R2 Score: -0.3460
+
+--- Linear Regression Performance --- for shift -17
+MAE: 72.8201
+R2 Score: -0.3621
+
+--- Linear Regression Performance --- for shift -16
+MAE: 73.0011
+R2 Score: -0.3686
+
+--- Linear Regression Performance --- for shift -15
+MAE: 73.1969
+R2 Score: -0.3750
+
+--- Linear Regression Performance --- for shift -14
+MAE: 73.4053
+R2 Score: -0.3858
+
+--- Linear Regression Performance --- for shift -13
+MAE: 73.5945
+R2 Score: -0.3924
+
+--- Linear Regression Performance --- for shift -12
+MAE: 73.5338
+R2 Score: -0.3957
+
+--- Linear Regression Performance --- for shift -11
+MAE: 73.9351
+R2 Score: -0.4101
+
+--- Linear Regression Performance --- for shift -10
+MAE: 74.1760
+R2 Score: -0.4169
+
+--- Linear Regression Performance --- for shift -9
+MAE: 74.4668
+R2 Score: -0.4233
+
+--- Linear Regression Performance --- for shift -8
+MAE: 74.4273
+R2 Score: -0.4237
+
+--- Linear Regression Performance --- for shift -7
+MAE: 74.3822
+R2 Score: -0.4201
+
+--- Linear Regression Performance --- for shift -6
+MAE: 74.8106
+R2 Score: -0.4291
+
+--- Linear Regression Performance --- for shift -5
+MAE: 75.3248
+R2 Score: -0.4403
+
+--- Linear Regression Performance --- for shift -4
+MAE: 75.5583
+R2 Score: -0.4456
+
+--- Linear Regression Performance --- for shift -3
+MAE: 75.8085
+R2 Score: -0.4521
+
+--- Linear Regression Performance --- for shift -2
+MAE: 75.9720
+R2 Score: -0.4547
+
+--- Linear Regression Performance --- for shift -1
+MAE: 75.9011
+R2 Score: -0.4576
+
+--- Linear Regression Performance --- for shift 0
+MAE: 75.8919
+R2 Score: -0.4573
+
+--- Linear Regression Performance --- for shift 1
+MAE: 75.8806
+R2 Score: -0.4600
+
+--- Linear Regression Performance --- for shift 2
+MAE: 75.7818
+R2 Score: -0.4604
+
+--- Linear Regression Performance --- for shift 3
+MAE: 75.4452
+R2 Score: -0.4532
+
+--- Linear Regression Performance --- for shift 4
+MAE: 75.3310
+R2 Score: -0.4539
+
+--- Linear Regression Performance --- for shift 5
+MAE: 75.2943
+R2 Score: -0.4561
+
+--- Linear Regression Performance --- for shift 6
+MAE: 75.3189
+R2 Score: -0.4579
+
+--- Linear Regression Performance --- for shift 7
+MAE: 75.3439
+R2 Score: -0.4586
+
+--- Linear Regression Performance --- for shift 8
+MAE: 74.9883
+R2 Score: -0.4486
+
+--- Linear Regression Performance --- for shift 9
+MAE: 74.4604
+R2 Score: -0.4345
+
+--- Linear Regression Performance --- for shift 10
+MAE: 73.8826
+R2 Score: -0.4213
+
+--- Linear Regression Performance --- for shift 11
+MAE: 73.3179
+R2 Score: -0.4063
+
+--- Linear Regression Performance --- for shift 12
+MAE: 72.5705
+R2 Score: -0.3858
+
+--- Linear Regression Performance --- for shift 13
+MAE: 72.2642
+R2 Score: -0.3745
+
+--- Linear Regression Performance --- for shift 14
+MAE: 71.9817
+R2 Score: -0.3659
+
+--- Linear Regression Performance --- for shift 15
+MAE: 71.5367
+R2 Score: -0.3547
+
+--- Linear Regression Performance --- for shift 16
+MAE: 70.9548
+R2 Score: -0.3384
+
+--- Linear Regression Performance --- for shift 17
+MAE: 70.2697
+R2 Score: -0.3198
+
+--- Linear Regression Performance --- for shift 18
+MAE: 69.3338
+R2 Score: -0.2963
+
+--- Linear Regression Performance --- for shift 19
+MAE: 68.5808
+R2 Score: -0.2733
+
+--- Linear Regression Performance --- for shift 20
+MAE: 67.9335
+R2 Score: -0.2533
+
+--- Linear Regression Performance --- for shift 21
+MAE: 67.4997
+R2 Score: -0.2381
+
+--- Linear Regression Performance --- for shift 22
+MAE: 66.7382
+R2 Score: -0.2161
+
+--- Linear Regression Performance --- for shift 23
+MAE: 66.1089
+R2 Score: -0.1984
+
+--- Linear Regression Performance --- for shift 24
+MAE: 65.5160
+R2 Score: -0.1827
+
+--- Linear Regression Performance --- for shift 25
+MAE: 64.6608
+R2 Score: -0.1614
+
+--- Linear Regression Performance --- for shift 26
+MAE: 64.0585
+R2 Score: -0.1408
+
+--- Linear Regression Performance --- for shift 27
+MAE: 63.4677
+R2 Score: -0.1215
+
+--- Linear Regression Performance --- for shift 28
+MAE: 62.8930
+R2 Score: -0.0989
+
+--- Linear Regression Performance --- for shift 29
+MAE: 62.4310
+R2 Score: -0.0810
+
+--- Linear Regression Performance --- for shift 30
+MAE: 62.0703
+R2 Score: -0.0669
+
+--- Linear Regression Performance --- for shift 31
+MAE: 61.5583
+R2 Score: -0.0475
+
+--- Linear Regression Performance --- for shift 32
+MAE: 61.1386
+R2 Score: -0.0322
+
+--- Linear Regression Performance --- for shift 33
+MAE: 60.7623
+R2 Score: -0.0187
+
+--- Linear Regression Performance --- for shift 34
+MAE: 60.4674
+R2 Score: -0.0065
+
+--- Linear Regression Performance --- for shift 35
+MAE: 60.1107
+R2 Score: 0.0059
+
+--- Linear Regression Performance --- for shift 36
+MAE: 59.7997
+R2 Score: 0.0213
+
+--- Linear Regression Performance --- for shift 37
+MAE: 59.5236
+R2 Score: 0.0331
+
+--- Linear Regression Performance --- for shift 38
+MAE: 59.3105
+R2 Score: 0.0426
+
+--- Linear Regression Performance --- for shift 39
+MAE: 59.1400
+R2 Score: 0.0490
+
+--- Linear Regression Performance --- for shift 40
+MAE: 58.6855
+R2 Score: 0.0582
+
+--- Linear Regression Performance --- for shift 41
+MAE: 58.4705
+R2 Score: 0.0662
+
+--- Linear Regression Performance --- for shift 42
+MAE: 58.2005
+R2 Score: 0.0694
+
+--- Linear Regression Performance --- for shift 43
+MAE: 58.3516
+R2 Score: 0.0689
+
+--- Linear Regression Performance --- for shift 44
+MAE: 58.1190
+R2 Score: 0.0727
+
+--- Linear Regression Performance --- for shift 45
+MAE: 58.1552
+R2 Score: 0.0721
+
+--- Linear Regression Performance --- for shift 46
+MAE: 58.2342
+R2 Score: 0.0675
+
+--- Linear Regression Performance --- for shift 47
+MAE: 58.5933
+R2 Score: 0.0607
+
+--- Linear Regression Performance --- for shift 48
+MAE: 58.7698
+R2 Score: 0.0534
+
+--- Linear Regression Performance --- for shift 49
+MAE: 58.8595
+R2 Score: 0.0487
+
+--- Linear Regression Performance --- for shift 50
+MAE: 59.1143
+R2 Score: 0.0388
+
+--- Linear Regression Performance --- for shift 51
+MAE: 59.5660
+R2 Score: 0.0280
+
+--- Linear Regression Performance --- for shift 52
+MAE: 59.8939
+R2 Score: 0.0168
+
+--- Linear Regression Performance --- for shift 53
+MAE: 60.4101
+R2 Score: 0.0032
+
+--- Linear Regression Performance --- for shift 54
+MAE: 61.1313
+R2 Score: -0.0171
+
+--- Linear Regression Performance --- for shift 55
+MAE: 61.8637
+R2 Score: -0.0417
+
+--- Linear Regression Performance --- for shift 56
+MAE: 62.6901
+R2 Score: -0.0627
+
+--- Linear Regression Performance --- for shift 57
+MAE: 63.5124
+R2 Score: -0.0851
+
+--- Linear Regression Performance --- for shift 58
+MAE: 64.3788
+R2 Score: -0.1078
+
+--- Linear Regression Performance --- for shift 59
+MAE: 65.6805
+R2 Score: -0.1417
+
+--- Linear Regression Performance --- for shift 60
+MAE: 66.5557
+R2 Score: -0.1687
+
+--- Linear Regression Performance --- for shift 61
+MAE: 67.4588
+R2 Score: -0.2017
+
+--- Linear Regression Performance --- for shift 62
+MAE: 68.1837
+R2 Score: -0.2285
+
+--- Linear Regression Performance --- for shift 63
+MAE: 69.0835
+R2 Score: -0.2638
+
+--- Linear Regression Performance --- for shift 64
+MAE: 70.1008
+R2 Score: -0.2989
+
+--- Linear Regression Performance --- for shift 65
+MAE: 70.9166
+R2 Score: -0.3334
+
+--- Linear Regression Performance --- for shift 66
+MAE: 71.7839
+R2 Score: -0.3668
+
+--- Linear Regression Performance --- for shift 67
+MAE: 72.6034
+R2 Score: -0.3991
+
+--- Linear Regression Performance --- for shift 68
+MAE: 73.4080
+R2 Score: -0.4347
+
+--- Linear Regression Performance --- for shift 69
+MAE: 73.8690
+R2 Score: -0.4584
+
+--- Linear Regression Performance --- for shift 70
+MAE: 74.8133
+R2 Score: -0.4970
+
+--- Linear Regression Performance --- for shift 71
+MAE: 75.6454
+R2 Score: -0.5334
+
+--- Linear Regression Performance --- for shift 72
+MAE: 76.1191
+R2 Score: -0.5575
+
+--- Linear Regression Performance --- for shift 73
+MAE: 76.7274
+R2 Score: -0.5823
+
+--- Linear Regression Performance --- for shift 74
+MAE: 77.6811
+R2 Score: -0.6216
+
+--- Linear Regression Performance --- for shift 75
+MAE: 78.8617
+R2 Score: -0.6738
+
+--- Linear Regression Performance --- for shift 76
+MAE: 79.8870
+R2 Score: -0.7167
+
+--- Linear Regression Performance --- for shift 77
+MAE: 80.9990
+R2 Score: -0.7558
+
+--- Linear Regression Performance --- for shift 78
+MAE: 82.0425
+R2 Score: -0.7963
+
+--- Linear Regression Performance --- for shift 79
+MAE: 82.7512
+R2 Score: -0.8248
+
+--- Linear Regression Performance --- for shift 80
+MAE: 83.4034
+R2 Score: -0.8537
+
+--- Linear Regression Performance --- for shift 81
+MAE: 83.9095
+R2 Score: -0.8772
+
+--- Linear Regression Performance --- for shift 82
+MAE: 84.7672
+R2 Score: -0.9088
+
+--- Linear Regression Performance --- for shift 83
+MAE: 85.4581
+R2 Score: -0.9313
+
+--- Linear Regression Performance --- for shift 84
+MAE: 86.0941
+R2 Score: -0.9527
+
+--- Linear Regression Performance --- for shift 85
+MAE: 86.7393
+R2 Score: -0.9718
+
+--- Linear Regression Performance --- for shift 86
+MAE: 87.1338
+R2 Score: -0.9865
+
+--- Linear Regression Performance --- for shift 87
+MAE: 87.5375
+R2 Score: -1.0023
+
+--- Linear Regression Performance --- for shift 88
+MAE: 88.2275
+R2 Score: -1.0288
+
+--- Linear Regression Performance --- for shift 89
+MAE: 88.7421
+R2 Score: -1.0456
+
+--- Linear Regression Performance --- for shift 90
+MAE: 89.3569
+R2 Score: -1.0656
+
+--- Linear Regression Performance --- for shift 91
+MAE: 89.9925
+R2 Score: -1.0848
+
+--- Linear Regression Performance --- for shift 92
+MAE: 90.5877
+R2 Score: -1.1054
+
+--- Linear Regression Performance --- for shift 93
+MAE: 91.1909
+R2 Score: -1.1210
+
+--- Linear Regression Performance --- for shift 94
+MAE: 91.7290
+R2 Score: -1.1407
+
+--- Linear Regression Performance --- for shift 95
+MAE: 92.4109
+R2 Score: -1.1704
+
+--- Linear Regression Performance --- for shift 96
+MAE: 93.0841
+R2 Score: -1.1884
+
+--- Linear Regression Performance --- for shift 97
+MAE: 93.8298
+R2 Score: -1.2088
+
+--- Linear Regression Performance --- for shift 98
+MAE: 94.1722
+R2 Score: -1.2151
+
+--- Linear Regression Performance --- for shift 99
+MAE: 94.6432
+R2 Score: -1.2289
+
+--- Linear Regression Performance --- for shift 100
+MAE: 95.0446
+R2 Score: -1.2424
+
+--- Linear Regression Performance --- for shift 101
+MAE: 95.2090
+R2 Score: -1.2409
+
+--- Linear Regression Performance --- for shift 102
+MAE: 95.4387
+R2 Score: -1.2463
+
+--- Linear Regression Performance --- for shift 103
+MAE: 95.6434
+R2 Score: -1.2527
+
+--- Linear Regression Performance --- for shift 104
+MAE: 95.7764
+R2 Score: -1.2505
+
+--- Linear Regression Performance --- for shift 105
+MAE: 95.6171
+R2 Score: -1.2420
+
+--- Linear Regression Performance --- for shift 106
+MAE: 95.7053
+R2 Score: -1.2435
+
+--- Linear Regression Performance --- for shift 107
+MAE: 95.9901
+R2 Score: -1.2501
+
+--- Linear Regression Performance --- for shift 108
+MAE: 96.1183
+R2 Score: -1.2551
+
+--- Linear Regression Performance --- for shift 109
+MAE: 96.4081
+R2 Score: -1.2663
+
+--- Linear Regression Performance --- for shift 110
+MAE: 96.3417
+R2 Score: -1.2622
+
+--- Linear Regression Performance --- for shift 111
+MAE: 96.3110
+R2 Score: -1.2647
+
+--- Linear Regression Performance --- for shift 112
+MAE: 95.8527
+R2 Score: -1.2517
+
+--- Linear Regression Performance --- for shift 113
+MAE: 95.4421
+R2 Score: -1.2405
+
+--- Linear Regression Performance --- for shift 114
+MAE: 94.9262
+R2 Score: -1.2245
+
+--- Linear Regression Performance --- for shift 115
+MAE: 94.6545
+R2 Score: -1.2116
+
+--- Linear Regression Performance --- for shift 116
+MAE: 94.6992
+R2 Score: -1.2135
+
+--- Linear Regression Performance --- for shift 117
+MAE: 94.8964
+R2 Score: -1.2274
+
+--- Linear Regression Performance --- for shift 118
+MAE: 94.7976
+R2 Score: -1.2280
+
+--- Linear Regression Performance --- for shift 119
+MAE: 94.6443
+R2 Score: -1.2247
+
+--- Linear Regression Performance --- for shift 120
+MAE: 94.4131
+R2 Score: -1.2285
+
+--- Linear Regression Performance --- for shift 121
+MAE: 94.0593
+R2 Score: -1.2222
+
+--- Linear Regression Performance --- for shift 122
+MAE: 93.5209
+R2 Score: -1.1999
+
+--- Linear Regression Performance --- for shift 123
+MAE: 92.9643
+R2 Score: -1.1814
+
+--- Linear Regression Performance --- for shift 124
+MAE: 92.3983
+R2 Score: -1.1640
+
+--- Linear Regression Performance --- for shift 125
+MAE: 92.3070
+R2 Score: -1.1694
+
+--- Linear Regression Performance --- for shift 126
+MAE: 92.2286
+R2 Score: -1.1735
+
+--- Linear Regression Performance --- for shift 127
+MAE: 91.8965
+R2 Score: -1.1574
+
+--- Linear Regression Performance --- for shift 128
+MAE: 91.2782
+R2 Score: -1.1288
+
+--- Linear Regression Performance --- for shift 129
+MAE: 90.7870
+R2 Score: -1.1059
+
+--- Linear Regression Performance --- for shift 130
+MAE: 90.4545
+R2 Score: -1.0954
+
+--- Linear Regression Performance --- for shift 131
+MAE: 90.0649
+R2 Score: -1.0837
+
+--- Linear Regression Performance --- for shift 132
+MAE: 89.6394
+R2 Score: -1.0731
+
+--- Linear Regression Performance --- for shift 133
+MAE: 89.1873
+R2 Score: -1.0557
+
+--- Linear Regression Performance --- for shift 134
+MAE: 88.6232
+R2 Score: -1.0304
+
+--- Linear Regression Performance --- for shift 135
+MAE: 87.8860
+R2 Score: -1.0079
+
+--- Linear Regression Performance --- for shift 136
+MAE: 87.5106
+R2 Score: -1.0014
+
+--- Linear Regression Performance --- for shift 137
+MAE: 87.2370
+R2 Score: -0.9888
+
+--- Linear Regression Performance --- for shift 138
+MAE: 86.3496
+R2 Score: -0.9579
+
+--- Linear Regression Performance --- for shift 139
+MAE: 85.7948
+R2 Score: -0.9315
+
+--- Linear Regression Performance --- for shift 140
+MAE: 85.0182
+R2 Score: -0.9095
+
+--- Linear Regression Performance --- for shift 141
+MAE: 84.3160
+R2 Score: -0.8748
+
+--- Linear Regression Performance --- for shift 142
+MAE: 83.4200
+R2 Score: -0.8336
+
+--- Linear Regression Performance --- for shift 143
+MAE: 83.1535
+R2 Score: -0.8138
+
+--- Linear Regression Performance --- for shift 144
+MAE: 82.5095
+R2 Score: -0.7905
+
+--- Linear Regression Performance --- for shift 145
+MAE: 82.0547
+R2 Score: -0.7760
+
+--- Linear Regression Performance --- for shift 146
+MAE: 81.6674
+R2 Score: -0.7606
+
+--- Linear Regression Performance --- for shift 147
+MAE: 81.0708
+R2 Score: -0.7368
+
+--- Linear Regression Performance --- for shift 148
+MAE: 80.0346
+R2 Score: -0.6980
+
+--- Linear Regression Performance --- for shift 149
+MAE: 79.3021
+R2 Score: -0.6671
+
+--- Linear Regression Performance --- for shift 150
+MAE: 78.7418
+R2 Score: -0.6552
+
+--- Linear Regression Performance --- for shift 151
+MAE: 77.9855
+R2 Score: -0.6340
+
+--- Linear Regression Performance --- for shift 152
+MAE: 77.4221
+R2 Score: -0.6143
+
+--- Linear Regression Performance --- for shift 153
+MAE: 77.0198
+R2 Score: -0.6058
+
+--- Linear Regression Performance --- for shift 154
+MAE: 77.0105
+R2 Score: -0.6124
+
+--- Linear Regression Performance --- for shift 155
+MAE: 76.9379
+R2 Score: -0.6207
+
+--- Linear Regression Performance --- for shift 156
+MAE: 76.6844
+R2 Score: -0.6187
+
+--- Linear Regression Performance --- for shift 157
+MAE: 76.6434
+R2 Score: -0.6185
+
+--- Linear Regression Performance --- for shift 158
+MAE: 76.6609
+R2 Score: -0.6248
+
+--- Linear Regression Performance --- for shift 159
+MAE: 76.3828
+R2 Score: -0.6189
+
+--- Linear Regression Performance --- for shift 160
+MAE: 76.0037
+R2 Score: -0.6144
+
+--- Linear Regression Performance --- for shift 161
+MAE: 75.7437
+R2 Score: -0.6088
+
+--- Linear Regression Performance --- for shift 162
+MAE: 75.4768
+R2 Score: -0.6071
+
+--- Linear Regression Performance --- for shift 163
+MAE: 75.3975
+R2 Score: -0.6076
+
+--- Linear Regression Performance --- for shift 164
+MAE: 75.1186
+R2 Score: -0.6033
+
+--- Linear Regression Performance --- for shift 165
+MAE: 75.0460
+R2 Score: -0.6141
+
+--- Linear Regression Performance --- for shift 166
+MAE: 74.8679
+R2 Score: -0.6163
+
+--- Linear Regression Performance --- for shift 167
+MAE: 74.3361
+R2 Score: -0.6046
+
+--- Linear Regression Performance --- for shift 168
+MAE: 74.0917
+R2 Score: -0.5943
+
+--- Linear Regression Performance --- for shift 169
+MAE: 73.5533
+R2 Score: -0.5775
+
+--- Linear Regression Performance --- for shift 170
+MAE: 73.1875
+R2 Score: -0.5666
+
+--- Linear Regression Performance --- for shift 171
+MAE: 73.1775
+R2 Score: -0.5668
+
+--- Linear Regression Performance --- for shift 172
+MAE: 73.3249
+R2 Score: -0.5670
+
+--- Linear Regression Performance --- for shift 173
+MAE: 73.3993
+R2 Score: -0.5681
+
+--- Linear Regression Performance --- for shift 174
+MAE: 73.4824
+R2 Score: -0.5635
+
+--- Linear Regression Performance --- for shift 175
+MAE: 73.7111
+R2 Score: -0.5668
+
+--- Linear Regression Performance --- for shift 176
+MAE: 73.9005
+R2 Score: -0.5674
+
+--- Linear Regression Performance --- for shift 177
+MAE: 73.7129
+R2 Score: -0.5567
+
+--- Linear Regression Performance --- for shift 178
+MAE: 73.7697
+R2 Score: -0.5522
+
+--- Linear Regression Performance --- for shift 179
+MAE: 73.8979
+R2 Score: -0.5565
+
+--- Linear Regression Performance --- for shift 180
+MAE: 74.4216
+R2 Score: -0.5682
+
+--- Linear Regression Performance --- for shift 181
+MAE: 74.6657
+R2 Score: -0.5657
+
+--- Linear Regression Performance --- for shift 182
+MAE: 74.5963
+R2 Score: -0.5612
+
+--- Linear Regression Performance --- for shift 183
+MAE: 74.6484
+R2 Score: -0.5576
+
+--- Linear Regression Performance --- for shift 184
+MAE: 74.5882
+R2 Score: -0.5493
+
+--- Linear Regression Performance --- for shift 185
+MAE: 74.3351
+R2 Score: -0.5476
+
+--- Linear Regression Performance --- for shift 186
+MAE: 74.2956
+R2 Score: -0.5361
+
+--- Linear Regression Performance --- for shift 187
+MAE: 74.4443
+R2 Score: -0.5307
+
+--- Linear Regression Performance --- for shift 188
+MAE: 74.7173
+R2 Score: -0.5342
+
+--- Linear Regression Performance --- for shift 189
+MAE: 74.9557
+R2 Score: -0.5423
+
+--- Linear Regression Performance --- for shift 190
+MAE: 75.1340
+R2 Score: -0.5517
+
+--- Linear Regression Performance --- for shift 191
+MAE: 75.3918
+R2 Score: -0.5595
+
+--- Linear Regression Performance --- for shift 192
+MAE: 75.3851
+R2 Score: -0.5650
+
+--- Linear Regression Performance --- for shift 193
+MAE: 75.6250
+R2 Score: -0.5718
+
+--- Linear Regression Performance --- for shift 194
+MAE: 76.1974
+R2 Score: -0.5815
+
+--- Linear Regression Performance --- for shift 195
+MAE: 76.5504
+R2 Score: -0.5936
+
+--- Linear Regression Performance --- for shift 196
+MAE: 76.9940
+R2 Score: -0.6090
+
+--- Linear Regression Performance --- for shift 197
+MAE: 77.3515
+R2 Score: -0.6192
+
+--- Linear Regression Performance --- for shift 198
+MAE: 77.3984
+R2 Score: -0.6258
+
+--- Linear Regression Performance --- for shift 199
+MAE: 77.3478
+R2 Score: -0.6272
+
