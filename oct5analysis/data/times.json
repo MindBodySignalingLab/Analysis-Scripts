@@ -1,0 +1,34 @@
+{
+    "Kristen": {
+        "baseline": {"start": 0, "end": 60},
+        "No weight": {"start": 60, "end": 440},
+        "2.5-lbs": {"start": 560, "end": 780},
+        "5.0-lbs": {"start": 840, "end": 1100},
+        "7.5-lbs": {"start": 1140, "end": 1340},
+        "10-lbs": {"start": 1370, "end": 1595}
+    },
+    "Michael": {
+        "baseline": {"start": 0, "end": 180},
+        "No weight": {"start": 240, "end": 645},
+        "2.5-lbs": {"start": 720, "end": 1140},
+        "5.0-lbs": {"start": 1220, "end": 1610},
+        "7.5-lbs": {"start": 1680, "end": 2090},
+        "10-lbs": {"start": 2170, "end": 2528}
+    },
+    "Manli": {
+        "baseline": null,
+        "No weight": {"start": 0, "end": 300},
+        "2.5-lbs": {"start": 480, "end": 705},
+        "5.0-lbs": {"start": 800, "end": 1100},
+        "7.5-lbs": {"start": 1140, "end": 1365},
+        "10-lbs": {"start": 1495, "end": 1785}
+    },
+    "Evan": {
+        "baseline": {"start": 0, "end": 135},
+        "No weight": {"start": 135, "end": 500},
+        "2.5-lbs": {"start": 564, "end": 896},
+        "5.0-lbs": {"start": 978, "end": 1350},
+        "7.5-lbs": {"start": 1438, "end": 1825},
+        "10-lbs": {"start": 1920, "end": 2295}
+    }
+}
