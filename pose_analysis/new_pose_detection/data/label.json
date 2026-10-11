@@ -1,0 +1,32 @@
+{
+    "william":{
+        "i1": {"start": 4, "end":20},
+        "i2": {"start":40, "end": 80},
+        "i3": {"start": 120, "end": 160}
+    },
+    "cherrie":{
+        "i1": {"start": 0, "end":20},
+        "i2": {"start":40, "end": 80},
+        "i3": {"start": 120, "end": 160}
+    },
+    "anglea":{
+        "i1": {"start": 0, "end":20},
+        "i2": {"start":40, "end": 80},
+        "i3": {"start": 120, "end": 160}
+    },
+    "kristen":{
+        "i1": {"start": 0, "end":20},
+        "i2": {"start":40, "end": 80},
+        "i3": {"start": 120, "end": 160}
+    },
+    "evan":{
+        "i1": {"start": 0, "end":20},
+        "i2": {"start":40, "end": 80},
+        "i3": {"start": 120, "end": 160}
+    },
+    "jennifer":{
+        "i1": {"start": 0, "end":20},
+        "i2": {"start":40, "end": 80},
+        "i3": {"start": 120, "end": 160}
+    }
+}

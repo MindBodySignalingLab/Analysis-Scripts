@@ -117,6 +117,7 @@ def process_single_frame(frame, detector, frame_count, fps):
 
     return frame, None
 
+
 def process_video(
     video_path,
     model_path,
@@ -224,3 +225,86 @@ def landmarks_to_dataframe(detected_landmarks, landmark_ids=LANDMARK_IDS):
         rows.append(row)
 
     return pd.DataFrame(rows)
+
+
+
+
+
+
+
+
+
+
+
+def process_single_frame_fast(frame, detector, frame_count, fps):
+    frame_rgb = cv2.cvtColor(frame, cv2.COLOR_BGR2RGB)
+
+    mp_image = mp.Image(
+        image_format=mp.ImageFormat.SRGB,
+        data=frame_rgb,
+    )
+
+    timestamp_ms = int(frame_count * 1000 / fps)
+    result = detector.detect_for_video(mp_image, timestamp_ms)
+
+    return result.pose_landmarks[0] if result.pose_landmarks else None
+def process_video_fast(
+    video_path,
+    model_path,
+    process_every_n_frames=1,
+    process_first_n_seconds=None,
+):
+    if (
+        not isinstance(process_every_n_frames, int)
+        or process_every_n_frames < 1
+    ):
+        raise ValueError("process_every_n_frames must be a positive integer")
+
+    info = get_video_info(video_path)
+    cap = info["cap"]
+    detected_landmarks = []
+
+    try:
+        fps = info["fps"]
+        if fps <= 0:
+            raise ValueError("Video FPS must be positive")
+
+        max_frame = print_video_info(
+            info,
+            process_first_n_seconds,
+            process_every_n_frames,
+        )
+
+        with create_pose_detector(model_path) as detector:
+            frame_count = 0
+
+            while frame_count < max_frame:
+                # Advance to the next frame.
+                if not cap.grab():
+                    break
+
+                if frame_count % process_every_n_frames == 0:
+                    # Retrieve the image only when detection is needed.
+                    ret, frame = cap.retrieve()
+                    if not ret:
+                        break
+
+                    landmarks = process_single_frame_fast(
+                        frame,
+                        detector,
+                        frame_count,
+                        fps,
+                    )
+
+                    detected_landmarks.append({
+                        "frame": frame_count,
+                        "time_seconds": frame_count / fps,
+                        "landmarks": landmarks,
+                    })
+
+                frame_count += 1
+
+    finally:
+        cap.release()
+
+    return detected_landmarks

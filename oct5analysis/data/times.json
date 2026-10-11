@@ -1,12 +1,4 @@
 {
-    "Kristen": {
-        "baseline": {"start": 0, "end": 60},
-        "No weight": {"start": 60, "end": 440},
-        "2.5-lbs": {"start": 560, "end": 780},
-        "5.0-lbs": {"start": 840, "end": 1100},
-        "7.5-lbs": {"start": 1140, "end": 1340},
-        "10-lbs": {"start": 1370, "end": 1595}
-    },
     "Michael": {
         "baseline": {"start": 0, "end": 180},
         "No weight": {"start": 240, "end": 645},

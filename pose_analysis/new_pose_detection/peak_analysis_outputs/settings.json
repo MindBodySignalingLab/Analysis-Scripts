@@ -1,0 +1,20 @@
+{
+  "ANGLE": "angle_1_deg",
+  "START_S": 130.0,
+  "END_S": 299.0,
+  "SMOOTH_S": 3.0,
+  "MIN_PEAK_DISTANCE_S": 3.0,
+  "ANGLE_PROMINENCE_DEG": 10.0,
+  "MIN_CYCLE_S": 3.0,
+  "MAX_CYCLE_S": 60.0,
+  "MIN_EXCURSION_DEG": 10.0,
+  "PHYS_PROMINENCE": {
+    "LDF_bloodflow": 10.0,
+    "AMI_bloodflow": 8.0
+  },
+  "LAG_MIN_S": 0.0,
+  "LAG_MAX_S": 5.0,
+  "OFFSET_S": 0.0,
+  "SEED": 42,
+  "N_PERMUTATIONS": 1999
+}

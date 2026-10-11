@@ -1,0 +1,5 @@
+metric,outcome,n_matched,spearman_rho,time_adjusted_rank_r,median_lag_s,excursion_min_deg,excursion_max_deg
+LDF_bloodflow,prominence,6,-0.6,-0.525486787309028,1.5,21.314645,56.961581
+LDF_bloodflow,peak_value,6,-0.5428571428571429,-0.3691751922605921,1.5,21.314645,56.961581
+AMI_bloodflow,prominence,5,0.09999999999999999,,2.0,25.72413999999999,56.961581
+AMI_bloodflow,peak_value,5,0.09999999999999999,,2.0,25.72413999999999,56.961581
